@@ -8,7 +8,7 @@ This is a organization archiving projects done by [ckswjd99](https://github.com/
 ### 2021-2
 - [Computer Architecture (430.322)](https://github.com/ckswjd99-at-snu/ComputerArchitecture-2021-2)
 - [Introduction to Compiler (430.414)](https://github.com/ckswjd99-at-snu/Compiler-2021-2)
-- [Computer Vision (M1522.001000)]()
+- [Computer Vision (M1522.001000)](https://github.com/ckswjd99-at-snu/ComputerVision-2021-2)
 
 ### 2022-1
 - [Operating System (430.318)](https://github.com/ckswjd99-at-snu/OperatingSystem-2022-1)

@@ -21,5 +21,5 @@ This is a organization archiving projects done by [ckswjd99](https://github.com/
 - [Data Communication Network (M2608.001200)](https://github.com/ckswjd99-at-snu/DataCommunicationNetwork-2022-2) (Private for now)
 
 ### 2023-1
-- [Scalable High Performance Computing (M1522.006700)](https://github.com/ckswjd99-at-snu/SHPC-2023-2) (Private for now)
+- [Scalable High Performance Computing (M1522.006700)](https://github.com/ckswjd99-at-snu/SHPC-2023-2)
 - [Deep Learning (M2177.003100)](https://github.com/ckswjd99-at-snu/DeepLearning-2023-2) (Private for now)
